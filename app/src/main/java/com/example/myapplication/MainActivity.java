@@ -1,5 +1,7 @@
 package com.example.myapplication;
 
+import static android.os.Build.VERSION_CODES.R;
+
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
